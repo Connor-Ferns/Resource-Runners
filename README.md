@@ -1,7 +1,7 @@
-# **[Your Game Name]**
+# **[Resource-Runners]**
 
 ## 🪵 **Overview**
-**[Your Game Name]** is a resource-gathering simulation game built using Unity. Players manage villagers to gather wood, stone, and gold while protecting them from enemies and managing the growth of their settlement. This game is an evolving project with an aim to balance simplicity and engaging strategy mechanics.
+**[Resource-Runners]** is a resource-gathering simulation game built using Unity. Players manage villagers to gather wood, stone, and gold while protecting them from enemies and managing the growth of their settlement. This game is an evolving project with an aim to balance simplicity and engaging strategy mechanics.
 
 ---
 
